@@ -1,6 +1,5 @@
 Próbafeladat
 
-                <p>
 ============================================================================<br>
 Készíts Yii 2 vagy Laravel 5 keretrendszer használatával egy egyszerű<br>
 <br>
